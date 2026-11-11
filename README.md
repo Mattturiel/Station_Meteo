@@ -16,4 +16,4 @@ ATmega328P et transmet ses mesures en LoRaWAN vers The Things Network (TTN).
 - `src/` : code du firmware (à venir)
 
 ## Auteur
-Matthieu Turiel – BTS CIEL, CNED
+Matthieu Turiel – BTS CIEL
