@@ -1,8 +1,6 @@
 # Station_Meteo
 
-Projet de BTS CIEL option A : développement du firmware d'une station météo
-connectée pour un hippodrome. La carte est basée sur un microcontrôleur
-ATmega328P et transmet ses mesures en LoRaWAN vers The Things Network (TTN).
+Projet de BTS CIEL option A :
 
 ## Objectifs
 - Acquérir les mesures des capteurs météo
